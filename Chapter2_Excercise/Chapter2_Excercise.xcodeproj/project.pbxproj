@@ -16,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0617594C27D9D6F700B2282B /* Advance_Swift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Advance_Swift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		069D4DD827DA2C90001B1789 /* BasicsPlayGround.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicsPlayGround.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		06D69EFB27D5FECF008CE584 /* Chapter2_Excercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chapter2_Excercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D69EFE27D5FECF008CE584 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06D69F0027D5FECF008CE584 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,8 @@
 		06D69EF227D5FECF008CE584 = {
 			isa = PBXGroup;
 			children = (
+				069D4DD827DA2C90001B1789 /* BasicsPlayGround.playground */,
+				0617594C27D9D6F700B2282B /* Advance_Swift.playground */,
 				06D69EFD27D5FECF008CE584 /* Chapter2_Excercise */,
 				06D69EFC27D5FECF008CE584 /* Products */,
 			);
