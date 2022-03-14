@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		0662731B27DB6009001D4880 /* Basic Swift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Basic Swift.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		066DA56927DF123A00653CB3 /* Advance Swift Programs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Advance Swift Programs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		06D69EFB27D5FECF008CE584 /* Chapter2_Excercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chapter2_Excercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D69EFE27D5FECF008CE584 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06D69F0027D5FECF008CE584 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		06D69EF227D5FECF008CE584 = {
 			isa = PBXGroup;
 			children = (
+				066DA56927DF123A00653CB3 /* Advance Swift Programs.playground */,
 				06D69EFD27D5FECF008CE584 /* Chapter2_Excercise */,
 				06D69EFC27D5FECF008CE584 /* Products */,
 			);
