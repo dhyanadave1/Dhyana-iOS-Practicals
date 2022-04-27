@@ -52,7 +52,7 @@ print(studDetail.name, studDetail.department)
         }
     }
     var square = SquareOfNumber()
-    square.squareOfNumber(no1: 23)
+    square.squareOfNumber(firstNum: 23)
     
    
 //Create a swift class example to show use of swift inheritance. Your base class has some property access this property. In two different child classes and show its usage using the instances of both child classes.
